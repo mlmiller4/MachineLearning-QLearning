@@ -1,7 +1,7 @@
 # Q-Learning and Dyna-Q 
 This project implments the Q-Learning and Dyna-Q machine learning algorithms in Python.
 
-#Prerequisites
+## Prerequisites
 * [Python 2.7](https://www.python.org/download/releases/2.7/)
 * [NumPy](https://www.numpy.org/)
 
